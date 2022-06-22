@@ -1,8 +1,17 @@
-# 👋 Welcome to my almost fully empty profile !!1!1
+# 👋 Hello! Welcome to my profile!
 
-I'm a High School student ***trying*** to learn how to make desktop/mobile apps.
+I'm Deniz, a student developing in desktop/mobile/wearable as a hobby.
 
-Interested in C#, Java and Xml/Xaml (whatever that is).
+Programming Languages & UI frameworks i use:
+- C# (WPF, WinForms, WinUI)
+- Kotlin (Jetpack Compose, Views)
+- Python
+- Javascript
 
-I'm the kind of programmer that would implement their own `ToString()` method. 🤡 Wouldn't be able to code without my warm and delicious hot chocolate. ☕❤
-You can find me using the same username on most of the platforms.
+I make (or try to) programs/apps for things that i find lacks, extending beyond what is normally possible. **IF** you ignore the bugs 🙄
+
+---
+
+Oh, i almost forgot! take this cold **Beypazarı** before you go :)
+
+![Samsung Sam holding Beypazarı](https://media.discordapp.net/attachments/604433915142340707/988969177878528040/sam_beypazar.jpg?width=400&height=500)
