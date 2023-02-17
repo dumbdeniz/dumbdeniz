@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my profile!
+# 👋 Hello World!
 
 I'm Deniz, a student developing in desktop/mobile/wearable as a hobby.
 
@@ -8,7 +8,7 @@ Programming Languages & UI frameworks i use:
 - Python
 - Javascript
 
-I make (or try to) programs/apps for things that i find lacks, extending beyond what is normally possible. **IF** you ignore the bugs 🙄
+I make (or try to) programs/apps for things that i find lacking, extending beyond what is normally possible. **IF** you ignore the bugs that is🙄
 
 Oh, i almost forgot! take this cold **Beypazarı** before you go :)
 
