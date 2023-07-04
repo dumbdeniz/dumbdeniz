@@ -1,15 +1,9 @@
-# 👋 Hello World!
+### 👋 Hello World!
 
-I'm Deniz, a student developing in desktop/mobile/wearable as a hobby.
+I'm Deniz, a student developing useful programs & apps for Desktop, Mobile and Wearables as a hobby. I like to develop features or even entire applications for things that i find lacking, while extending beyond what is normally possible.
 
-Programming Languages & UI frameworks i use:
-- C# (WPF, WinForms, WinUI)
-- Kotlin (Jetpack Compose, Views)
+#### Programming languages & UI Frameworks i use
+- C# (Winforms, WinUI 3)
+- Kotlin (Jetpack Compose)
+- JavaScript (HTML & CSS)
 - Python
-- Javascript
-
-I make (or try to) programs/apps for things that i find lacking, extending beyond what is normally possible. **IF** you ignore the bugs that is🙄
-
-Oh, i almost forgot! take this cold **Beypazarı** before you go :)
-
-![Samsung Sam holding Beypazarı](https://media.discordapp.net/attachments/604433915142340707/988969177878528040/sam_beypazar.jpg?width=350&height=438)
