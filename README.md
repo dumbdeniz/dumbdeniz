@@ -6,4 +6,5 @@ I'm Deniz, a student developing useful programs & apps for Desktop, Mobile and W
 - C# (Winforms, WinUI 3)
 - Kotlin (Jetpack Compose)
 - JavaScript (HTML & CSS)
+- C++ (ESP & Arduino)
 - Python
